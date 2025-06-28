@@ -1,4 +1,4 @@
-# 📱 QR-Code-Generator
+# 📱 QR Code Generator
 
 This project provides a simple and efficient way to generate QR codes instantly upon form submission. With just one easy step, users can fill out a form, and a corresponding QR code is generated automatically, making it a seamless experience for developers and end-users alike.
 
